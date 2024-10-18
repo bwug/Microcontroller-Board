@@ -1,7 +1,7 @@
-# Microcontroller Board
-## Designed for signal integrity
+<h1>Microcontroller Board</h1>
+<h6>Designed for signal integrity</h6>
 
-This board connects a PIC16 or PIC18 microcontroller to a series of LED and resistor combos, this board was designed for university work though is more than viable for real-world testing applications due to the simplicity of individual pin testing
+This board connects a _PIC16_ or _PIC18_ microcontroller to a series of LED and resistor combos, this board was designed for university work though is more than viable for real-world testing applications due to the simplicity of individual pin testing
 
 The goal of this design was to produce a small board which used different design principles taught throughout first semester to have great signal integrity
 
